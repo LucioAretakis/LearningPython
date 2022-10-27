@@ -1,4 +1,4 @@
-while True:
+while True: 
     n1 = int(input("PRIMEIRO NÚMERO: "))
     n2 = int(input("SEGUNDO NÚMERO: "))
     print("""
