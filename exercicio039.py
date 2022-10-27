@@ -1,4 +1,4 @@
-from datetime import date
+from datetime import date 
 genero = str(input('Insira seu gênero: '))
 if genero == 'Masculino':
     print('Seu alistamento é obrigatório. ')
