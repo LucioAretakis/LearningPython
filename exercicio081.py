@@ -1,6 +1,6 @@
 valores = []
 cont = 0
-while True:
+while True: 
     valores.append(int(input('Digite o valor a ser adicionado na lista: ')))
     cont += 1
     resp = input('Você deseja continuar? ').strip().upper()[0]
