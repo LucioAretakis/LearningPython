@@ -2,7 +2,7 @@ a = []
 b = []
 c = []
 
-while True:
+while True: 
     a.append(int(input('insira um valor na lista: ')))
     resp = input('Você deseja continuar? ').strip().upper()[0]
     while resp not in 'SN':
