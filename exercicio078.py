@@ -13,7 +13,7 @@ print(f'O maior valor da lista é {maior} nas posições ', end= '')
 for i, v in enumerate(valores):
     if v == maior:
         print(f'{i}...', end= '')
-print()
+print( )
 print(f'O menor valor da lista é {menor} nas posições ', end= '')
 for i, v in enumerate(valores):
     if v == menor:
