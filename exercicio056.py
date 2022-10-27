@@ -1,4 +1,4 @@
-somaidade = 0
+somaidade = 0 
 mediaidade = 0
 homemmaioridade = 0
 nomevelho = ''
