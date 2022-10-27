@@ -1,4 +1,4 @@
-from random import randint
+from random import randint 
 
 cont = 1
 jogador = int(input("JOGADA USUÁRIO: "))
