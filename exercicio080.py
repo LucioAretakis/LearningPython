@@ -1,4 +1,4 @@
-valores = list()
+valores = list() 
 for c in range(0, 5):
     n = int(input("Insira um valor na lista: "))
     if c == 0 or n > valores[-1]:
