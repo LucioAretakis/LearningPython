@@ -9,4 +9,4 @@ for c in range(0,7):
         impar.append(num)
 
 print(sorted(par))
-print(sorted(impar))
+print(sorted(impar)) 
