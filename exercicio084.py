@@ -1,4 +1,4 @@
-dados = list()
+dados = list() 
 maior = menor = nomemaior = nomemenor = 0
 while True:
     nome = input('NOME: ')
