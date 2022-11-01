@@ -1,4 +1,4 @@
-aluno = list() 
+aluno = list()
 while True:
     nome = input('nome: ')
     n1 = float(input('nota 1: '))
