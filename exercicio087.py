@@ -2,7 +2,7 @@ valores = []
 pares = soma = maior = 0
 for c in range(0,3):
     num = int(input(f'digite um valor para [0,{c}]: '))
-    valores.append(num)
+    valores.append(num) 
     if c == 2:
         for v in range(0,3):
             num = int(input(f'digite um valor para [1,{v}]: '))
